@@ -1,0 +1,36 @@
+RUNNR       002010
+EVTNR       0
+NSHOW       10
+PRMPAR      2010
+ESLOPE      -2.64
+ERANGE      5.3354e+01 1.0000e+06
+THETAP      0 90
+PHIP        -180 180
+OBSLEV      95000
+ATMOSPHERE     1 Y
+MAGNET      26.793 16.055
+FIXCHI      0.
+SEED        4172734   0   0
+SEED        1147944   0   0
+SEED        2077917   0   0
+SEED        5164928   0   0
+ECUTS       0.05 0.01 5e-05 5e-05
+
+
+MUMULT      T
+MAXPRT      1
+ELMFLG      F   T
+LONGI       F  10.  T  T
+ECTMAP      1.E11
+
+DIRECT      /workspaces/arti/lago-corsika-main/corsika-77402/run//fluxTest_000005/
+DATBAS      F
+PAROUT      T F
+ 
+
+ 
+
+ 
+
+USER        msd
+EXIT
